@@ -1,2 +1,0 @@
-# gitone
-test purpose
