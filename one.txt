@@ -1,5 +1,3 @@
 1
 one
-one is changed to fetch
-one is beign changed to fetch
-one is beign changed to pull
+one is new added to fetch
